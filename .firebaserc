@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "kanbanfire-409d1": {
+      "hosting": {
+        "kanban-fire": [
+          "kanbanfire-409d1"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "kanbanfire-409d1"
+  }
+}

@@ -1,0 +1,21 @@
+[debug] [2023-04-19T18:47:36.550Z] ----------------------------------------------------------------------
+[debug] [2023-04-19T18:47:36.552Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\terminal07\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-04-19T18:47:36.552Z] CLI Version:   11.28.0
+[debug] [2023-04-19T18:47:36.552Z] Platform:      win32
+[debug] [2023-04-19T18:47:36.552Z] Node Version:  v18.15.0
+[debug] [2023-04-19T18:47:36.553Z] Time:          Wed Apr 19 2023 15:47:36 GMT-0300 (Horário Padrão de Brasília)
+[debug] [2023-04-19T18:47:36.554Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-04-19T18:47:36.560Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-04-19T18:47:36.560Z] > authorizing via signed-in user (andreixavier365@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\terminal07\angular-2codelab-firebase\kanban-fire
+
